@@ -1,0 +1,5 @@
+com\app\config\SecurityConfig.class
+com\app\controller\HomeController.class
+com\app\config\DemoAppConfig.class
+com\app\config\SpringSecurityInitializer.class
+com\app\config\MySpringMvcDispatcherServletInitializer.class

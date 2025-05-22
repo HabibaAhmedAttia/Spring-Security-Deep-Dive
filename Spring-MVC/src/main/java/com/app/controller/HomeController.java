@@ -12,4 +12,14 @@ public class HomeController
     {
         return "homePage";
     }
+    @GetMapping("/adminPage")
+    public String showAdminPage()
+    {
+        return "adminPage";
+    }
+    @GetMapping("/systemPage")
+    public String showSystemPage()
+    {
+        return "systemPage";
+    }
 }
